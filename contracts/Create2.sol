@@ -4,8 +4,8 @@ pragma solidity  ^0.8.9;
 contract  D {
     uint public x;
 
-    constructor(uint a){
-        x = a;
+    constructor(){
+        x = 10;
     }
 }
 
